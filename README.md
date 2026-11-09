@@ -18,3 +18,11 @@ I am learning DevOps to become a skilled DevOps Engineer.
 
 To gain practical DevOps engineering skills
 and build real-world projects.
+
+## Git Practice
+
+Today I learned:
+- Creating GitHub repositories
+- Making commits
+- Creating branches
+- Understanding independent branches
